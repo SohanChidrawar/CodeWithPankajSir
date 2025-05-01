@@ -4,7 +4,8 @@ This directory consists of various pattern printing programs, and it will keep u
 
 Below are the file names with their respective patterns, and the code for each is mentioned in the corresponding `.c` file.
 
-## 1.c - Pattern:  *
+## 1.c - Pattern:  
+                   *
                    **
                    ***
                    ****
