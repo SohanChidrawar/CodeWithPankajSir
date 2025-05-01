@@ -95,3 +95,39 @@ Below are the file names with their respective patterns, and the code for each i
                 123
                 12
                 1        
+
+## 15.c - Pattern:
+                A
+                BB
+                CCC
+                DDDD
+
+## 16.c - Pattern:
+                   A
+                  BB
+                 CCC
+                DDDD
+
+## 17.c - Pattern:
+                   A 
+                  B B
+                 C C C
+                D D D D
+
+## 18.c - Pattern:
+                A
+                BC
+                DEF
+                GHIJ
+
+## 19.c - Pattern:
+                  A
+                 BC
+                DEF
+               GHIJ
+
+## 20.c - Pattern:
+                  A 
+                 B C
+                D E F
+               G H I J
