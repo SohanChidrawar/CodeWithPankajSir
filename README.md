@@ -12,21 +12,21 @@ Below are the file names with their respective patterns, and the code for each i
 
 
 ## 2.c - Pattern: 
-****
-***
-**
-*
+                  ****
+                  ***
+                  **
+                  *
 
 ## 3.c - Pattern: 
-*****
- ****
-  ***
-   **
-    *
+                *****
+                 ****
+                  ***
+                   **
+                    *
 
 ## 4.c - Pattern:
-     *
-    **
-   ***
-  ****
- *****
+                   *
+                  **
+                 ***
+                ****
+               *****
