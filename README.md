@@ -30,3 +30,45 @@ Below are the file names with their respective patterns, and the code for each i
                  ***
                 ****
                *****
+
+## 5.c - Pattern:
+                1
+                12
+                123
+                1234
+                12345
+                
+## 6.c - Pattern:
+                1
+                22
+                333
+                4444
+                55555
+                
+## 7.c - Pattern:
+                1 
+                2 3
+                4 5 6
+                7 8 9 10
+                
+## 8.c - Pattern:
+                1 2 3 4 
+                5 6 7
+                8 9
+                10
+                
+## 9.c - Pattern:
+                  1 
+                 2 3
+                4 5 6
+               7 8 9 10
+               
+## 10.c - Pattern:
+                   1
+                  23
+                 456
+                78910
+
+
+
+               
