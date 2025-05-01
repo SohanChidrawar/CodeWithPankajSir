@@ -69,6 +69,24 @@ Below are the file names with their respective patterns, and the code for each i
                  456
                 78910
 
+## 11.c - Pattern:
+                   1
+                  22
+                 333
+                4444
 
+## 12.c - Pattern:
+                    1
+                   12
+                  123
+                 1234
+                12345
+
+## 13.c - Pattern:
+                11111
+                2222
+                333
+                44
+                5
 
                
