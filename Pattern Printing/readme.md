@@ -89,4 +89,9 @@ Below are the file names with their respective patterns, and the code for each i
                 44
                 5
 
-               
+## 14.c - Pattern:
+                12345
+                1234
+                123
+                12
+                1        
