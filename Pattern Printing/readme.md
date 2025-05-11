@@ -173,3 +173,26 @@ Below are the file names with their respective patterns, and the code for each i
             ***    ***
             **      **
             *        *
+
+## 26.c - Pattern:
+          Enter the length and breadth:5 6
+          ******
+          *    *
+          *    *
+          *    *
+          ******
+
+## 27.c - Pattern:
+          Enter number of rows:5
+              *
+             * *
+            *   *
+           *     *
+          *       *
+
+## 28.c - Pattern:
+          Enter number of rows:4
+             *
+            * *
+           *   *
+          *******
