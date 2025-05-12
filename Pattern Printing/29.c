@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+int main()
+{
+    int row,col,n;
+    printf("Enter number of row:");
+    scanf("%d",&n);
+    for(row=1;row<=n;row++)
+    {
+        for(col=1;col<=row;col++)
+        {
+            if((row+col)%2)
+                printf("0");
+            else
+                printf("1");
+        }
+        printf("\n");
+    }
+}
