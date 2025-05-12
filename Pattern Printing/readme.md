@@ -196,3 +196,24 @@ Below are the file names with their respective patterns, and the code for each i
             * *
            *   *
           *******
+
+## 29.c - Pattern:
+          Enter number of row:4
+          1
+          01
+          101
+          0101
+
+## 30.c - Pattern:
+          Enter number of rows:5
+          1
+          2*2
+          3*3*3
+          4*4*4*4
+          5*5*5*5*5
+
+## 31.c - Pattern:
+          1      1
+           2    2
+            3  3
+             4 
