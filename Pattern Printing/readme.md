@@ -217,3 +217,58 @@ Below are the file names with their respective patterns, and the code for each i
            2    2
             3  3
              4 
+
+## 32.c - Pattern:
+          Enter number of rows:4
+          1
+          123
+          12345
+          1234567
+          1234567
+          12345
+          123
+          1
+
+## 33.c - Pattern:
+          Enter number of rows:4
+          1
+          123
+          12345
+          1234567
+          12345
+          123
+          1
+
+## 34.c - Pattern:
+          Enter number of rows:5
+          1 
+          2 4
+          3 6 9
+          4 8 12 16
+          5 10 15 20 25
+
+## 35.c - Pattern:
+          Enter number of rows:5
+          1
+          11
+          101
+          1001
+          11111
+
+## 36.c - Pattern:
+          1
+          2*3
+          4*5*6
+          7*8*9*10
+
+## 37.c - Pattern:
+          Enter number of rows:5
+          1
+          22
+          333
+          4444
+          55555
+          4444
+          333
+          22
+          1
