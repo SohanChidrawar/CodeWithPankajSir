@@ -19,7 +19,7 @@ void swap(int *a, int *b)
 void heapify(struct Minheap *heap, int index)
 {
     int parent = (index-1)/2;
-    while(index>0 && heap->data[index] > heap->data[parent])
+    while(index>0 && heap->data[index] < heap->data[parent])
     {
         swap(&heap->data[index], &heap->data[parent]);
         index =  parent;
