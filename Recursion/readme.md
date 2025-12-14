@@ -9,3 +9,5 @@
 5. Replace 'x' with 'abc'. Here we can generalise with other string also.
 
 6. Delete consecutive duplicate. E.g: input: aabccd   output: abcd
+
+7. Return all subsequence for given string.
