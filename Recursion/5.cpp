@@ -4,15 +4,19 @@ using namespace std;
 
 void replace(char input[])
 {
-    int n = strlen(input);
-    if(n==0)
+    int l = strlen(input);
+    if( l==0)
         return;
-    
     if(input[0]=='x')
     {
-        for(int i=0;i<n;i++)
-            input[i] = input[i+1];
-        replace(input);
+        for(int i=l;i>0;i--)
+            input[i+2] = input[i];
+
+        input[0] = 'a';
+        input[1] = 'b';
+        input[2] = 'c';
+        
+        replace(input+3);
     }
     else
         replace(input+1);
@@ -21,7 +25,7 @@ void replace(char input[])
 int main()
 {
     char input[100];
-    cout<<"Enter a string ";
+    cout<<"Enter a string: ";
     cin>>input;
     replace(input);
     cout<<input;
