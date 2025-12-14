@@ -5,3 +5,5 @@
 3. Reverse the element of array using array
 
 4. Delete aplhabet 'x' from given string. Here we can give other alphabet to remove from given string.
+
+5. Replace 'x' with 'abc'. Here we can generalise with other string also
