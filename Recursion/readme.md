@@ -6,4 +6,6 @@
 
 4. Delete aplhabet 'x' from given string. Here we can give other alphabet to remove from given string.
 
-5. Replace 'x' with 'abc'. Here we can generalise with other string also
+5. Replace 'x' with 'abc'. Here we can generalise with other string also.
+
+6. Delete consecutive duplicate. E.g: input: aabccd   output: abcd
