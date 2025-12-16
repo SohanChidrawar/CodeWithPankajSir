@@ -64,4 +64,14 @@
     
     5 1
 
+11. Lower bound function on array.
 
+    lower_bound() of an element => if that element is present then lower bound is that element itself otherwise next higher element.
+
+12. Lower bound on array form with vector.
+
+13. Lower bound on set and also using direct inbuild function that is available in library of c++.
+
+14. Using inbuild min element and maximum element function on array
+
+15. Reverse operation on string
