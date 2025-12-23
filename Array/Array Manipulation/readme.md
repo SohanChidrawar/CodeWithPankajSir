@@ -8,6 +8,8 @@ queries = [[1,5,3],[4,8,7],[6,9,1]]
 
 Queries are interpreted as follows:
 
+![alt text](Screenshot1.png)
+
 Add the values of k between the indices a and b inclusive:
 
 ![alt text](Screenshot.png)
