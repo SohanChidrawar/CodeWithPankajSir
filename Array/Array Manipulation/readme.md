@@ -10,7 +10,7 @@ Queries are interpreted as follows:
 
 Add the values of k between the indices a and b inclusive:
 
-![alt text](Screenshoot.png)
+![alt text](Screenshot.png)
 
 The largest value is 10 after all operations are performed.
 
