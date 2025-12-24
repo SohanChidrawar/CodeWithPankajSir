@@ -19,3 +19,5 @@ class Solution {
         return n+1;
     }
 };
+
+// TC: O(N) and SC:O(N)
