@@ -1,7 +1,7 @@
 Given a sentence in the form of a string in uppercase, convert it into its equivalent mobile numeric keypad sequence. Please note there might be spaces in
 between the words in a sentence and we can print spaces by pressing 0.
 
-![Alt text for the image](keyboard.png)
+![Alt text for the image](keyboard.jpg)
 
 Example 1:
 
