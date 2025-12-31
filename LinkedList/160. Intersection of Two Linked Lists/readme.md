@@ -24,7 +24,11 @@ skipB - The number of nodes to skip ahead in listB (starting from the head) to g
 
 The judge will then create the linked structure based on these inputs and pass the two heads, headA and headB to your program. If you correctly return the intersected node, then your solution will be accepted.
 
+![alt text](intersection1.jpg)
 
+![alt text](intersection2.jpg)
+
+![alt text](intersection3.jpg)
 
 Constraints:
 
