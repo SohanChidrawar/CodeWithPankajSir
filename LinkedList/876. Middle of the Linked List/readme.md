@@ -5,7 +5,7 @@ If there are two middle nodes, return the second middle node.
 
 Example 1:
 
-![alt text](middle/jpg)
+![alt text](middle.jpg)
 
 Input: head = [1,2,3,4,5]
 
