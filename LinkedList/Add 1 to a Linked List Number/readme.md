@@ -6,7 +6,7 @@ Examples :
 
 ![alt_text](reverse.jpg)
 
-![alt_text](reverse1.jpg)
+![alt_text](reverse2.jpg)
 
 Expected Time Complexity: O(n)
 
