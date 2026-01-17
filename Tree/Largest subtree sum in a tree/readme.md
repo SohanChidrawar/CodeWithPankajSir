@@ -2,7 +2,7 @@ Given a binary tree. The task is to find subtree with maximum sum in the tree an
 
 ![alt_text](largest.jpg)
 
-![alt_text](largest1.cpp)
+![alt_text](largest1.jpg)
 
 Your Task: 
 You don't need to read input or print anything. Your task is to complete the function findLargestSubtreeSum() which takes the root of a binary tree and returns an integer.
