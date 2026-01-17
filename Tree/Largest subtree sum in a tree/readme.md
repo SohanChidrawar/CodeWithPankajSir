@@ -1,0 +1,19 @@
+Given a binary tree. The task is to find subtree with maximum sum in the tree and return its sum.
+
+![alt_text](largest.jpg)
+
+![alt_text](largest1.cpp)
+
+Your Task: 
+You don't need to read input or print anything. Your task is to complete the function findLargestSubtreeSum() which takes the root of a binary tree and returns an integer.
+ 
+
+Expected Time Complexity: O(N)
+
+Expected Auxiliary Space: O(N)
+
+Constraints:
+
+1 <= N <= 10^5
+
+-10^3 <= tree.val <= 10^3
