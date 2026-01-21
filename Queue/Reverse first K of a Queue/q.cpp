@@ -1,0 +1,35 @@
+class Solution {
+  public:
+  
+    void reverse(queue<int> &q, int k)
+    {
+        if(q.empty()== true || k>q.size())
+            return ;
+        if(k<=0)
+            return;
+        
+        stack<int>s;
+        
+        for(int i=0;i<k;i++)
+        {
+            s.push(q.front());
+            q.pop();
+        }
+        while(!s.empty())
+        {
+            q.push(s.top());
+            s.pop();
+        }
+        for(int i=0;i<q.size()-k;i++)
+        {
+            q.push(q.front());
+            q.pop();
+        }
+    }
+  
+    queue<int> reverseFirstK(queue<int> q, int k) {
+        // code here
+       reverse(q,k);
+       return q;
+    }
+};
