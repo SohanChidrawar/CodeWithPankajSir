@@ -16,53 +16,53 @@
    
    Enter number of element in array: 5
    
-    4 2
-   
-    4 1
-   
-    5 2
-   
-    4 8
-   
-    5 1
-   
-   -----
-
-    4 1
-   
-    4 2
-   
-    4 8
-   
-    5 1
-   
-    5 2
+          4 2
+         
+          4 1
+         
+          5 2
+         
+          4 8
+         
+          5 1
+         
+         -----
+      
+          4 1
+         
+          4 2
+         
+          4 8
+         
+          5 1
+         
+          5 2
 
 10. Sort vector of array in specific order mentioned below
     
     Enter number of element in array: 5
     
-    4 2
-    
-    5 1
-    
-    4 1
-    
-    5 2
-    
-    4 8
-
-    -----
-   
-    4 8
-    
-    4 2
-    
-    4 1
-    
-    5 2
-    
-    5 1
+          4 2
+          
+          5 1
+          
+          4 1
+          
+          5 2
+          
+          4 8
+      
+          -----
+         
+          4 8
+          
+          4 2
+          
+          4 1
+          
+          5 2
+          
+          5 1
 
 11. Lower bound function on array.
 
