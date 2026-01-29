@@ -275,7 +275,7 @@ Below are the file names with their respective patterns, and the code for each i
 
 ## 38.c - Pattern:
           Input: 5
-          Output:
+  
           * 
           * * 
           * * * 
@@ -285,3 +285,12 @@ Below are the file names with their respective patterns, and the code for each i
           * * *
           * *
           *
+
+## 39.c - Pattern:
+          Input: 5
+          
+          *********
+           *******
+            *****
+             ***
+              *
