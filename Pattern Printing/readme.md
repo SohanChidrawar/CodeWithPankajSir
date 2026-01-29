@@ -272,3 +272,16 @@ Below are the file names with their respective patterns, and the code for each i
           333
           22
           1
+
+## 38.c - Pattern:
+          Input: 5
+          Output:
+          * 
+          * * 
+          * * * 
+          * * * * 
+          * * * * *
+          * * * *
+          * * *
+          * *
+          *
