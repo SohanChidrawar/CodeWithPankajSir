@@ -5,7 +5,7 @@ SC is O(1)
 
 Example 1:
 
-![alt_text](LLbst.jpg)
+![alt_text](LL_bst.jpg)
 
 Constraints:
 
