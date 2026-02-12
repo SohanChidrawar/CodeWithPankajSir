@@ -2,7 +2,9 @@ A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs o
 
 For example, the below binary watch reads "4:51".
 
+
 ![alt_text](watch.jpg)
+
 
 Given an integer turnedOn which represents the number of LEDs that are currently on (ignoring the PM), return all possible times the watch could represent. You may return the answer in any order.
 
@@ -26,7 +28,6 @@ Input: turnedOn = 9
 
 Output: []
  
-
 Constraints:
 
 0 <= turnedOn <= 10
