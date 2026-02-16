@@ -20,4 +20,3 @@ Constraints:
 
 1 <= k <= n <= 500
 
-![Profile views]([https://komarev.com](https://github.com/SohanChidrawar/CodeWithPankajSir/tree/main/Array/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game))
