@@ -3,5 +3,4 @@ Given an integer n, return the decimal value of the binary string formed by conc
 ![alt_text](cons.jpg)
 
 Constraints:
-
 1 <= n <= 10^5
