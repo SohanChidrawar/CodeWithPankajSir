@@ -4,7 +4,7 @@ Note: can you handle the duplicates without using any additional Data Structure?
 
 Examples :
 
-![alt_text](array.cpp)
+![alt_text](array.jpg)
 
 Constraints:
 
