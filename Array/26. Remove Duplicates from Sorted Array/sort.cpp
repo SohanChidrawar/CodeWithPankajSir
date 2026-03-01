@@ -12,7 +12,7 @@ public:
                 nums[index++] = nums[i];
         }
 
-        nums.resize(index);
+        nums.resize(index);          //removes the duplicates from the end of the vector.
 
         return nums.size();
     }
