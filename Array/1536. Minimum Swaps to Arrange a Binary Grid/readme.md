@@ -10,7 +10,7 @@ The main diagonal of a grid is the diagonal that starts at cell (1, 1) and ends 
 
 ![alt_text](swap1.jpg)
 
-![alt_text](swap2.jpg)
+![alt_text](swap3.jpg)
 
 Constraints:
 
