@@ -6,7 +6,7 @@ Given an integer target, return true if target is in matrix or false otherwise.
 
 You must write a solution in O(log(m * n)) time complexity.
 
-![alt_text](mat1.jpg)
+![alt_text](mat.jpg)
 
 ![alt_text](mat2.jpg)
 
