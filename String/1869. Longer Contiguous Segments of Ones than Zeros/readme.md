@@ -4,7 +4,7 @@ For example, in s = "110100010" the longest continuous segment of 1s has length 
 
 Note that if there are no 0's, then the longest continuous segment of 0's is considered to have a length 0. The same applies if there is no 1's.
 
-![alt_text](longest.jpg)
+![alt_text](longer.jpg)
 
 Constraints:
 
