@@ -15,10 +15,11 @@ public:
                 result = "";
             }
         }
-
+        // push last owrd on stack
         if(!result.empty())
             st.push(result);
 
+        // Pop words from stack to build reversed string
         result = "";
         while(!st.empty())
         {
