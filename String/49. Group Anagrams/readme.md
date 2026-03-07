@@ -1,6 +1,6 @@
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
-![alt_text](anagram.jpg)
+![alt_text](group.jpg)
 
 Constraints:
 
