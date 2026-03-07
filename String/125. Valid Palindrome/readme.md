@@ -2,7 +2,7 @@ A phrase is a palindrome if, after converting all uppercase letters into lowerca
 
 Given a string s, return true if it is a palindrome, or false otherwise.
 
- 
+ The isalnum function in C++ is used to check if a character is alphanumeric (a letter or a digit). It is defined in the <cctype> header.
 
 Example 1:
 
