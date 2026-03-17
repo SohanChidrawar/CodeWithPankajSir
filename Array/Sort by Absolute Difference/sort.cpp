@@ -1,0 +1,12 @@
+class Solution {
+  public:
+    void rearrange(vector<int> &arr, int x) {
+        // code here
+        stable_sort(arr.begin(),arr.end(),[&](int a, int b)
+        {
+            int diffA = abs(a-x);
+            int diffB = abs(b-x);
+            return diffA < diffB;
+        });
+    }
+};
