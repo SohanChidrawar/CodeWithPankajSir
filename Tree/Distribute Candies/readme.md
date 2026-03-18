@@ -6,7 +6,7 @@ Note: The testcases are framed such that it is always possible to achieve a conf
 
 ![alt_text](dist.jpg)
 
-![alt_text](dist1.jpg)
+![alt_text](disr1.jpg)
 
 Constraints:
 1 ≤ n ≤ 3*10^3
