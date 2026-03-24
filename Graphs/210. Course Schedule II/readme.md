@@ -19,3 +19,23 @@ prerequisites[i].length == 2
 ai != bi
 
 All the pairs [ai, bi] are distinct.
+
+Intuition:
+
+- Represent the courses as a directed graph: edge bi → ai means you must take bi before ai.
+
+- Compute in‑degree (number of prerequisites) for each course.
+
+- Use Kahn’s algorithm (BFS topological sort):
+
+- Start with all courses that have in‑degree = 0.
+
+- Repeatedly take a course from the queue, add it to the ordering, and reduce the in‑degree of its neighbors.
+
+- If a neighbor’s in‑degree becomes 0, push it into the queue.
+
+- At the end:
+
+- If the ordering contains all courses → return it.
+
+- Otherwise (cycle exists) → return empty array.
