@@ -6,7 +6,7 @@ Choose any two indices i and j such that i < j and the difference j - i is even,
 
 Return true if you can make the strings s1 and s2 equal, and false otherwise.
 
-![alt_text](ope.jpg)
+![alt_text](sch.jpg)
  
 
 Constraints:
