@@ -1,4 +1,6 @@
 /*
+Using Sorting and MinHeap - O(n * log(n)) Time and O(n) Space
+
 The idea is to sort the jobs based on their deadlines in ascending order. This ensures that jobs with earlier deadlines are processed first, 
 preventing situations where a job with a short deadline remains unscheduled because a job with a later deadline was chosen instead. We use a min-heap 
 to keep track of the selected jobs, allowing us to efficiently replace lower-profit jobs when a more profitable job becomes available.
